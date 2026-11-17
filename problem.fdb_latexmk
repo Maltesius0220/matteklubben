@@ -1,0 +1,20 @@
+# Fdb version 4
+["pdflatex"] 1794920946.2996 "/home/janden/matteklubben/problem.tex" "problem.pdf" "problem" 1794920946.68703 0
+  "/home/janden/matteklubben/problem.tex" 1794920946.09895 517 d584bbb91a4bdf2138c4122a7341dfd4 ""
+  "/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls" 1793389839 20144 c320f103d647f141332f1a6594e2527e ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/base/size10.clo" 1793389839 8448 93d85e09d64a9c5cb1da080f76df8f37 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def" 1790017662 31824 60c8410f6fc024f189369cb45fa634af ""
+  "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1782667392 43815 bcd8835056a2dfac260166a1c9541261 ""
+  "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1794819507 5646548 ff5e4f49286ff98e7da99d0f0c1312a4 ""
+  "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1794819555 3666013 bc00efdc686411ce860e82c3e2b67e54 ""
+  "/usr/local/texlive/2026/texmf.cnf" 1794819501.43554 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "problem.aux" 1794920946.65977 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "problem.tex" 1794920946.09895 517 d584bbb91a4bdf2138c4122a7341dfd4 ""
+  (generated)
+  "problem.aux"
+  "problem.fls"
+  "problem.log"
+  "problem.pdf"
+  (rewritten before read)
